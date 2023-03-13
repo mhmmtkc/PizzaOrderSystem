@@ -1,5 +1,5 @@
 # PizzaOrderSystem
- Global Ai Hub Aygaz Python Bootcamp Bitirme Projesi
+ Global Ai Hub Akbank Python Bootcamp Bitirme Projesi
  
  Dosyalarda  kodlar hem .ipynb hemde .py uzantılı olarak bulunmaktadır. 
  
